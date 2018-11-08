@@ -1,6 +1,6 @@
 class SearchMovie
 
-	def initialize (title)
+	def initialize (title="Iron man")
 		@title = title
 	end
 
