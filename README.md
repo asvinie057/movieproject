@@ -1,25 +1,22 @@
-# README
+CI status
+The Hacking Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Semaine 6 - Jeudi: Movie searcher
+Bonjour!!
 
-Things you may want to cover:
+git clone
+bundle install
+rails server
+aller sur localhost:3000
 
-* Ruby version
 
-* System dependencies
+Team
+Hey guys ! Nous sommes La Team SaphyR, composée de :
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# movieproject
+Julien aka Mothinx clic
+Camilo aka Rumkox clic
+Christine aka Zybouric clic
+Dan aka Gdanj clic
+Asvinie aka Asvinie057 clic
+Antoine aka Tonoutt clic
+Kathleen aka Funkykath clic
